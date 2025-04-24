@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+venv_311/
+venv_whisperx_legacy/
+.env
+.python-version
+.DS_Store
+temp/
